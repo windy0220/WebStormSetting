@@ -1,0 +1,8 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="5 function类型" type="JavaScript" />
+      <mapping pattern="*.5 Function类型.js" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
