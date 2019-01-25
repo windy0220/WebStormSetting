@@ -1,8 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.4.1.5-2018.1" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="ONE_DARK" />
     <option name="highlightColor" value="80cbc4" />
+    <option name="isContrastMode" value="true" />
     <option name="accentColor" value="f44336" />
     <option name="compactSidebar" value="true" />
     <option name="isCompactStatusBar" value="true" />
