@@ -1,14 +1,16 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.4.1.5-2018.1" />
-    <option name="selectedTheme" value="DARKER" />
+    <option name="selectedTheme" value="ONE_DARK" />
     <option name="highlightColor" value="80cbc4" />
+    <option name="isContrastMode" value="true" />
     <option name="accentColor" value="f44336" />
     <option name="compactSidebar" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="arrowsStyle" value="Darcula" />
     <option name="compactDropdowns" value="true" />
+    <option name="settingsSelectedTab" value="5" />
     <option name="userId" value="12b3134e:16439b49152:-7fff" />
     <option name="allowDataCollection" value="true" />
   </component>
